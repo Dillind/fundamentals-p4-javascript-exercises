@@ -10,6 +10,7 @@ const repeatString = function (str, num) {
   return repeatedStr;
 };
 
+// yo
 // While loop example
 //   let index = 0;
 //   while (index < num) {
