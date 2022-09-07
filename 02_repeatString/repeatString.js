@@ -1,14 +1,19 @@
 const repeatString = function (str, num) {
-  let repeatedStr = "";
-  // for loop example
-  for (let i = 0; i < num; i++) {
-    repeatedStr += str;
-  }
-  if (num < 0) {
-    return "ERROR";
-  }
-  return repeatedStr;
+  // repeat method example
+  if (num < 0) return "ERROR";
+  return str.repeat(num);
 };
+
+// for loop example
+// let repeatedStr = "";
+//   for (let i = 0; i < num; i++) {
+//     repeatedStr += str;
+//   }
+//   if (num < 0) {
+//     return "ERROR";
+//   }
+//   return repeatedStr;
+// };
 
 // yo
 // While loop example
@@ -24,4 +29,5 @@ const repeatString = function (str, num) {
 //   return repeatedStr;
 // };
 // Do not edit below this line
+
 module.exports = repeatString;
