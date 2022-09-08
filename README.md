@@ -9,7 +9,7 @@ To debug functions, you can run the tests in the Visual Studio Code debugger ter
 - [x] helloWorld
 - [x] repeatString
 - [x] reverseString
-- [x/] removeFromArray (understand the logic, but wouldn't be able to write it myself without help)
+- [x] removeFromArray (understand the logic, but wouldn't be able to write it myself without help)
 - [] sumAll
 - [] leapYears
 - [] tempConversion
