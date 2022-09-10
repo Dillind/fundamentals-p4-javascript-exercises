@@ -11,7 +11,7 @@ To debug functions, you can run the tests in the Visual Studio Code debugger ter
 - [x] reverseString
 - [x] removeFromArray (understand the logic, but wouldn't be able to write it myself without help)
 - [x] sumAll (still looked at answers, but learned a lot in the process.)
-- [] leapYears
+- [x] leapYears
 - [] tempConversion
 
 3. Cheatsheet for using Git
