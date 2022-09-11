@@ -12,7 +12,7 @@ To debug functions, you can run the tests in the Visual Studio Code debugger ter
 - [x] removeFromArray (understand the logic, but wouldn't be able to write it myself without help)
 - [x] sumAll (still looked at answers, but learned a lot in the process.)
 - [x] leapYears
-- [] tempConversion
+- [x] tempConversion (completed this all by myself. while not difficult, very proud that I did it.)
 
 3. Cheatsheet for using Git
 
